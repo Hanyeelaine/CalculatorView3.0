@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_length">
+        <item>sin</item>
+        <item>cos</item>
+        <item>tan</item>
+        <item>square</item>
+        <item>cube</item>
+        <item>ln</item>
+        <item>lg</item>
+        <item>ln(x+1)</item>
+        <item>sqrt</item>
+        <item>asin</item>
+        <item>acos</item>
+        <item>atan</item>
+        <item>e^x</item>
+    </string-array>
+    <string-array name="unit_length2">
+        <item>二进制</item>
+        <item>八进制</item>
+        <item>十六进制</item>
+    </string-array>
+    <string-array name="unit_length3">
+        <item>人民币</item>
+        <item>美元</item>
+        <item>日元</item>
+        <item>欧元</item>
+        <item>英镑</item>
+    </string-array>
+    <string-array name="unit_length4">
+        <item>人民币</item>
+        <item>美元</item>
+        <item>日元</item>
+        <item>欧元</item>
+        <item>英镑</item>
+    </string-array>
+</resources>
